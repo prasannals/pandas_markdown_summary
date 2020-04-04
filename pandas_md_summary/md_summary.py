@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 import os
 from functools import reduce
+import pdb
 
 def ser_to_markdown(ser,top=100):
     total_entries = ser.shape[0]
@@ -27,7 +28,7 @@ def proc_md_col(df, col, out_dir, top=100):
         os.mkdir(out_dir)
     ser = df[col]
     ser_to_markdown_file(ser, out_dir=out_dir, top=top)
-    md_for_col = column_md_template.format(col, f'{out_dir}/{col}.md')
+    md_for_col = column_md_template.format(col, f'{out_dir.stem}/{col}.md')
     return md_for_col
 
         

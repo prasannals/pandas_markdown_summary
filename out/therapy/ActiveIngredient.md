@@ -66,8 +66,8 @@
 | AMLODIPINE                                                                |     706 |
 | lactulose                                                                 |     687 |
 | RAMIPRIL                                                                  |     684 |
-| Myslee®                                                                   |     682 |
 | Oxycodone hydrochloride \ PARACETAMOL                                     |     682 |
+| Myslee®                                                                   |     682 |
 | AMIODARONE hydrochloride                                                  |     680 |
 | POTASSIUM CHLORIDE                                                        |     649 |
 | hydroxyzine dihydrochloride                                               |     596 |
@@ -89,17 +89,17 @@
 | Gabapentin                                                                |     362 |
 | pancrelipase                                                              |     354 |
 | triazolam                                                                 |     352 |
-| FUROSEMIDE \ spironolactone                                               |     347 |
 | DULOXETINE                                                                |     347 |
+| FUROSEMIDE \ spironolactone                                               |     347 |
 | H2O                                                                       |     333 |
 | CARVEDILOL                                                                |     332 |
-| NIFEDIPINE                                                                |     329 |
 | BACLOFEN                                                                  |     329 |
+| NIFEDIPINE                                                                |     329 |
 | LEVOFLOXACIN                                                              |     322 |
 | Potassium canrenoate                                                      |     309 |
 | amitriptyline                                                             |     299 |
-| fentanyl citrate                                                          |     295 |
 | INSULIN LISPRO FROM RECOMBINANT DNA                                       |     295 |
+| fentanyl citrate                                                          |     295 |
 | URSODEOXYCHOLIC ACID                                                      |     294 |
 | METOPROLOL TARTRATE                                                       |     284 |
 | tiotropium                                                                |     274 |

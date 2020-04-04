@@ -53,8 +53,8 @@
 | LANGAST                    |    1110 |
 | OMEPRAZEN                  |     970 |
 | DTX                        |     955 |
-| RANITIDINE HEX             |     954 |
 | PHYSIOLOGICAL SOLUTION     |     954 |
+| RANITIDINE HEX             |     954 |
 | SAN bisoprolol             |     938 |
 | Aldactone                  |     937 |
 | Toradol                    |     922 |
@@ -93,10 +93,10 @@
 | AMIODARONE SANDOZ          |     391 |
 | Antra                      |     388 |
 | OMEPRAZOLE EG              |     379 |
-| ALIFLUS                    |     374 |
 | OXYCONTIN                  |     374 |
-| Ferrograd                  |     354 |
+| ALIFLUS                    |     374 |
 | CREON 10000UI              |     354 |
+| Ferrograd                  |     354 |
 | AUGMENTIN                  |     349 |
 | LASITONE                   |     347 |
 | Gardenale                  |     335 |
@@ -108,4 +108,4 @@
 | HUMALOG                    |     291 |
 | Gabapentin DOC             |     290 |
 | Omnic                      |     289 |
-| UDCA                       |     286 |
+| NIFEDICOR                  |     286 |
